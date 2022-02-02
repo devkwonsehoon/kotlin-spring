@@ -19,8 +19,9 @@
     - [1 - 시작하기](https://velog.io/@devkwonsehoon/Kotlin-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-1)
     - [2 - 변수, 타입 추론 그리고 널 세이프티](https://velog.io/@devkwonsehoon/Kotlin-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-2)
     - [3 - 조건문과 함수](https://velog.io/@devkwonsehoon/Kotlin-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-3)
+    - [4 - 클래스](https://velog.io/@devkwonsehoon/Kotlin-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-4)
         
-<br>
+  <br>
 
 ## 🚀 Kopring Boot
 
