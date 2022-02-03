@@ -18,7 +18,6 @@
 
 <br>
 
----
 
 ## 🦖 Kotlin
 
@@ -36,7 +35,6 @@
   
 <br>
 
----
 
 ## 🚀 Kopring Boot
 
@@ -44,7 +42,6 @@
 
 <br>
 
----
 
 ## 🐳 Docker + kubernetes
 
