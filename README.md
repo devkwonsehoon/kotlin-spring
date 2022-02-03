@@ -12,6 +12,14 @@
 
 <br>
 
+## 💻 CS
+- [Web](https://velog.io/@devkwonsehoon/Web%EC%9D%84-ARABOZA-1)
+- [RESTful API](https://velog.io/@devkwonsehoon/What-is-RESTful)
+
+<br>
+
+---
+
 ## 🦖 Kotlin
 
 - ### 공식문서와 함께 공부하는 Kotlin
@@ -20,14 +28,23 @@
     - [2 - 변수, 타입 추론 그리고 널 세이프티](https://velog.io/@devkwonsehoon/Kotlin-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-2)
     - [3 - 조건문과 함수](https://velog.io/@devkwonsehoon/Kotlin-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-3)
     - [4 - 클래스](https://velog.io/@devkwonsehoon/Kotlin-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-4)
-        
-  <br>
+
+- ### 코틀린 쿡북으로 코틀린 요리하기
+
+  - 준비중
+  
+  
+<br>
+
+---
 
 ## 🚀 Kopring Boot
 
 - ### 준비중
 
 <br>
+
+---
 
 ## 🐳 Docker + kubernetes
 
