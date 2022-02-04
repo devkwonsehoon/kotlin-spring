@@ -20,6 +20,7 @@
 
 
 ## 🦖 Kotlin
+> 공식문서나 교재와 함께 Kotlin에 대해 알아봅니다.
 
 - ### 공식문서와 함께 공부하는 Kotlin
 
@@ -27,6 +28,11 @@
     - [2 - 변수, 타입 추론 그리고 널 세이프티](https://velog.io/@devkwonsehoon/Kotlin-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-2)
     - [3 - 조건문과 함수](https://velog.io/@devkwonsehoon/Kotlin-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-3)
     - [4 - 클래스](https://velog.io/@devkwonsehoon/Kotlin-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-4)
+    - [5 - 관용구](https://velog.io/@devkwonsehoon/Kotlin-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-5)
+
+- ### Kotlin IN ACTION
+
+  - 준비중
 
 - ### 코틀린 쿡북으로 코틀린 요리하기
 
@@ -38,11 +44,15 @@
 
 ## 🚀 Kopring Boot
 
+> Kotlin을 Spring Boot에 접목하여 백엔드 단을 구현해봅니다.
+
 - ### 준비중
 
 <br>
 
 
 ## 🐳 Docker + kubernetes
+
+> 놓칠 수 없는 CI/CD 까지 구현해봅니다.
 
 - ### 준비중
