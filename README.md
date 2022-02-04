@@ -4,7 +4,8 @@
 [![author](https://img.shields.io/badge/author-devkwonsehoon-0066FF.svg?style=flat-square)](https://velog.io/@devkwonsehoon)
 
 > Kotlin + Spring Boot 스택을 공부해보기 위해 준비한 레포지토리입니다. <br>
-> 공부하며 기록한 글 위주로 업데이트됩니다.
+> 공부하며 기록한 글 위주로 업데이트됩니다. <br> <br>
+> <b>이슈 환영 !</b>
 
 <br>
 
