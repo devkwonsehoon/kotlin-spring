@@ -28,6 +28,6 @@ data class UserRequest(
     var phoneNumber: String = "",
 
     @field:StringFormatDateTime
-    var createdAt: String ?= null // yyyy-mm-dd hh:mm:ss
+    var createdAt: String ?= null // yyyy-MM-dd hh:mm:ss
 ){
 }
