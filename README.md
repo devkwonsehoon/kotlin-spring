@@ -33,7 +33,7 @@
 
 - ### Kotlin IN ACTION
 
-  - 준비중
+  - [1 - 함수와 변수](https://velog.io/@devkwonsehoon/Kotlin-IN-ACTION-1%ED%95%A8%EC%88%98%EC%99%80-%EB%B3%80%EC%88%98)
 
 - ### 코틀린 쿡북으로 코틀린 요리하기
 
