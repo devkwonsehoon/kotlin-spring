@@ -47,7 +47,9 @@
 
 > Kotlin을 Spring Boot에 접목하여 백엔드 단을 구현해봅니다.
 
-- ### 준비중
+- ### Simple Todo 예제
+  - [Repo](https://github.com/devkwonsehoon/kotlin-simple-todo)
+  - 준비중
 
 <br>
 

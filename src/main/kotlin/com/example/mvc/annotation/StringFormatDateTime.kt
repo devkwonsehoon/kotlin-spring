@@ -17,8 +17,8 @@ annotation class StringFormatDateTime(
     val pattern: String = "yyyy-MM-dd HH:mm:ss",
     val message: String = "시간 형식이 유효하지 않습니다.",
     /**
-     * group, payload 는 default 로 두고 이후에 공부해보자.
+     * groups, payload 는 default 로 두고 이후에 공부해보자.
      */
-    val group: Array<KClass<*>> = [], // default
-    val payload: Array<KClass<out Payload>> = [] // default
+    val groups: Array<KClass<*>> = [],
+    val payload: Array<KClass<out Payload>> = []
 )

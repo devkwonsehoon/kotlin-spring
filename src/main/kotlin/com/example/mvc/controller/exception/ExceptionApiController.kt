@@ -22,15 +22,10 @@ import javax.validation.constraints.Size
 class ExceptionApiController {
 
     @GetMapping("/hello")
-    fun hello() {
-
-        val list = mutableListOf<String>()
-
-        val temp = list[0]
-
-        if (true) {
-            throw RuntimeException("강제 Exception")
-        }
+    fun hello(): String {
+//        val list = mutableListOf<String>()
+//        val temp = list[0]
+        return "Hello"
     }
 
     @GetMapping("")
@@ -85,7 +80,7 @@ class ExceptionApiController {
 
     }
 
-    // 컨트롤러 어드바이스를 거치지 않고 클래스 내부 해당 컨트롤러에서 생기는 예외를 핸들링
+//    // 컨트롤러 어드바이스를 거치지 않고 클래스 내부 해당 컨트롤러에서 생기는 예외를 핸들링
     @ExceptionHandler(value = [IndexOutOfBoundsException::class])
     fun indexOutOfBoundExeption(e: IndexOutOfBoundsException): ResponseEntity<String> {
         return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("index Error")
